@@ -35,6 +35,7 @@ Built as part of a **Cyber Security** undergraduate curriculum to understand att
 ---
 
 ## 🏗️ Architecture
+```bash
 ransomware-simulation/
 │
 ├── victim/                  # Isolated victim environment
@@ -47,6 +48,7 @@ ransomware-simulation/
 ├── requirements.txt         # Python dependencies
 ├── DISCLAIMER.md            # Legal & ethical notice
 └── README.md
+```
 
 ---
 
