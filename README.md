@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/86be8f1a-1952-4d6f-adea-9b1632bfd61a
+
 # 🔐 Ransomware Simulation (Safe Demo Project)
 
 > ⚠️ **Important:** This project is made only for learning purposes.
