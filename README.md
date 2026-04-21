@@ -121,11 +121,5 @@ The author assumes **no liability** for misuse of this tool.
 
 **Heet Gohil**  
 B.Tech. Cyber Security — Shah & Anchor Kutchhi Engineering College  
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/heetgohil28-dev)
+[LinkedIn](https://linkedin.com/in/heetgohil) | [GitHub](https://github.com/heetgohil28-dev)
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).  
-See `DISCLAIMER.md` for ethical use guidelines.
